@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "431524235750",
+    "project_id": "netra-658fe",
+    "storage_bucket": "netra-658fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431524235750:android:9784d96e0095d3f1eb2e27",
+        "android_client_info": {
+          "package_name": "com.prateekcode.workmanagerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431524235750-i92nld7e5pvcvpb6mvicrlat7abck5bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mCR57QEW13ufkAwTUf2wLPtq8E2vz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431524235750-i92nld7e5pvcvpb6mvicrlat7abck5bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431524235750:android:e0703eb881c29187eb2e27",
+        "android_client_info": {
+          "package_name": "com.rahulsheokand.childapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431524235750-lpr554e3c9cf3mlb833tj7tg4741pt20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulsheokand.childapp",
+            "certificate_hash": "efc787405ed9b166d7c0627cc2db7090a5ed393c"
+          }
+        },
+        {
+          "client_id": "431524235750-vi172gg4gblc9m6235abloilvlhkc58i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulsheokand.childapp",
+            "certificate_hash": "28795dd7719dbdeadce5f6b26a80e96236a21caa"
+          }
+        },
+        {
+          "client_id": "431524235750-i92nld7e5pvcvpb6mvicrlat7abck5bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mCR57QEW13ufkAwTUf2wLPtq8E2vz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431524235750-i92nld7e5pvcvpb6mvicrlat7abck5bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431524235750:android:3c78705b5e368e43eb2e27",
+        "android_client_info": {
+          "package_name": "com.rahulsheokand.parentappnetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431524235750-g6rrpgu0cts0vthfjfmcsqpar9jnuofa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulsheokand.parentappnetra",
+            "certificate_hash": "28795dd7719dbdeadce5f6b26a80e96236a21caa"
+          }
+        },
+        {
+          "client_id": "431524235750-qthov2640rslejmad06j80or95jhbr2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulsheokand.parentappnetra",
+            "certificate_hash": "efc787405ed9b166d7c0627cc2db7090a5ed393c"
+          }
+        },
+        {
+          "client_id": "431524235750-i92nld7e5pvcvpb6mvicrlat7abck5bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mCR57QEW13ufkAwTUf2wLPtq8E2vz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431524235750-i92nld7e5pvcvpb6mvicrlat7abck5bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
